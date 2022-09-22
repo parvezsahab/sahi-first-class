@@ -1,0 +1,3 @@
+wec developement
+ 1, into
+ 2. about git hub
